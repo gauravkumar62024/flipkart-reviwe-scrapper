@@ -1,1 +1,1 @@
-# flipkart-reviwe-scrapper
+# flipkart-review-scrapper
